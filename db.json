@@ -17,7 +17,7 @@
                     "pid":null,
                     "text":"保管期限",
                     "checked":false,
-                    "iconCls":"icon-AuxDictNo",
+                    "iconCls":"icon-AuxDict",
                     "attributes":{
                         "node_type":"DICT",
                         "icon_type":0
