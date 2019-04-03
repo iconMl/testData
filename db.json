@@ -17,7 +17,7 @@
                     "pid":null,
                     "text":"保管期限",
                     "checked":false,
-                    "iconCls":"icon-AuxDict",
+                    "iconCls":"icon-AuxDictSysOpen",
                     "attributes":{
                         "node_type":"DICT",
                         "icon_type":0
@@ -29,7 +29,7 @@
                             "text":"永久",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
@@ -42,7 +42,7 @@
                             "text":"长期",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
@@ -55,7 +55,7 @@
                             "text":"短期",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
@@ -68,7 +68,7 @@
                             "text":"短期10",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
@@ -81,7 +81,7 @@
                             "text":"短期30",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
@@ -94,7 +94,7 @@
                             "text":"80年",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
@@ -107,7 +107,7 @@
                             "text":"30年",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
@@ -120,7 +120,7 @@
                             "text":"10年",
                             "state":null,
                             "checked":false,
-                            "iconCls":"icon-AuxDictItemNo",
+                            "iconCls":"icon-AuxDictItemSys",
                             "attributes":{
                                 "node_type":"ITEM",
                                 "icon_type":0
