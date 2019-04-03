@@ -16,7 +16,6 @@
                     "id":"10",
                     "pid":null,
                     "text":"保管期限",
-                    "state":"closed",
                     "checked":false,
                     "iconCls":"icon-AuxDictNo",
                     "attributes":{
